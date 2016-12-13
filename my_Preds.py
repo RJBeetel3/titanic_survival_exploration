@@ -1,4 +1,4 @@
-#this code creates predictions for survivors of the titanic
+#this code creates predictions for survivors of the titanic for Udacity Course
 import pandas
 
 def predictions_3(data):
