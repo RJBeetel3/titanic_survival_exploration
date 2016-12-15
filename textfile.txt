@@ -1,1 +1,2 @@
 this is a text file to aid in git ducation
+more education about branching
