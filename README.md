@@ -1,5 +1,5 @@
 # titanic_survival_exploration
-This was an Udacity project in which a decision tree classifier to predict survival for passengers on the Titanic based on personal information like age, sex, port from which they departed, family members that accompanied them. 
+This was an Udacity project in which a decision tree classifier to predict survival for passengers on the Titanic based on personal information like age, sex, port from which they departed, family members that accompanied them. The model did fairly well with a roughly 83% prediction rate.
 
 #Code Example
 
